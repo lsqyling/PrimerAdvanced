@@ -13,7 +13,11 @@ set(PART_2_SRC
         StrBlob.cpp StrBlob.h
         TreeNode.cpp TreeNode.h
         StrBlobPtr.cpp StrBlobPtr.h
-        Vector.h TextQuery.cpp TextQuery.h)
+        Vector.h TextQuery.cpp TextQuery.h
+        text_stream/Text.cpp text_stream/Text.h
+        text_stream/UtfText.cpp text_stream/UtfText.h
+        text_stream/GbkText.cpp text_stream/GbkText.h
+        text_stream/TextFactory.cpp text_stream/TextFactory.h)
 
 
 add_library(Stdlib ${PART_2_SRC})
