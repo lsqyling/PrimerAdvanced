@@ -52,7 +52,7 @@ add_subdirectory(part_1_foundation)
 add_subdirectory(part_2_stdlib)
 add_subdirectory(part_3_classdesignertool)
 add_subdirectory(part_4_advancedtheme)
-
+add_subdirectory(part_5_templates)
 
 
 

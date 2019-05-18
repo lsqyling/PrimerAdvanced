@@ -37,3 +37,4 @@ clang++ -std=c++14 example.cpp -o example
 - [Chapter 17. Specialized Library Facilities](part_4_advancedtheme/chapter_17_speciallib.cpp)
 - [Chapter 18. Tools for Large Programs](part_4_advancedtheme/chapter_18_largeprogramtools.cpp)
 - [Chapter 19. Specialized Tools and Techniques](part_4_advancedtheme/chapter_19_specializedtools.cpp)
+- Part V:  [Template Apply](part_5_templates)
