@@ -14,7 +14,7 @@ class UtfText : public Text {
 public:
     UtfText(string path);
 
-    ~UtfText(void);
+    ~UtfText();
 
     bool ReadOneChar(string &oneChar);
 
