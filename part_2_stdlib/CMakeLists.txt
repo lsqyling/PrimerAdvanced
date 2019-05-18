@@ -11,6 +11,7 @@ set(PART_2_SRC
         PrintFormat.h
         chapter_12_dynamemory.cpp
         StrBlob.cpp StrBlob.h
+        TreeNode.cpp TreeNode.h
         StrBlobPtr.cpp StrBlobPtr.h
         Vector.h TextQuery.cpp TextQuery.h)
 
